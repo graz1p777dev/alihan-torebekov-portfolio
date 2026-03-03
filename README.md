@@ -1,7 +1,6 @@
-# 🚀 My Portfolio
+# [🚀 My Portfolio](https://alihan-torebekov-portfolio.vercel.app/)
 
 > Modern, animated portfolio website with dark theme, i18n (EN/RU), and neon design
-
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-38B2AC?style=flat-square)

@@ -17,11 +17,11 @@ const CONFIG = {
   codewarsUsername: 'graz1p777dev',
   githubUsername: 'graz1p777dev',
   githubRepoFeatured: {
-    name: 'Stroy kg',
+    name: 'Demi AI Consultant',
     description:
-      'A Dockerized Django API template with JWT auth, PostgreSQL, pytest, and GitHub Actions.(this project is private)',
-    repoUrl: 'https://github.com/graz1p/stroy-kg',
-    topics: ['Django', 'DRF', 'PostgreSQL', 'Docker', 'Pytest'],
+      'Demi Consultant is a professional-grade multi-channel AI platform for cosmetologists designed to automate skin consultations and product analysis.',
+    repoUrl: 'https://github.com/graz1p777dev/AI-consulttant',
+    topics: ['Flask', 'AI', 'aiogramm', 'Telebot', 'PostgreSQL', 'Docker'],
   },
   contacts: {
     github: 'https://github.com/graz1p777dev',
@@ -400,7 +400,7 @@ const Icons = {
   CSS: <IconImg src="/icons/css.svg" />,
   SQLite: <IconImg src="/icons/sqlite.svg" />,
   PostgreSQL: <IconImg src="/icons/postgresql.svg" />,
-  Pytest: <IconImg src="/icons/pytest.svg" />,
+  AI: <IconImg src="/icons/ai-integration.svg" />,
   Telebot: <IconImg src="/icons/telebot.svg" />,
   Linux: <IconImg src="/icons/linux.svg" />,
 };
@@ -812,7 +812,7 @@ export default function Portfolio() {
       { label: 'CSS', icon: Icons.CSS },
       { label: 'SQLite', icon: Icons.SQLite },
       { label: 'PostgreSQL', icon: Icons.PostgreSQL },
-      { label: 'Pytest', icon: Icons.Pytest },
+      { label: 'AI', icon: Icons.AI },
       { label: 'Telebot', icon: Icons.Telebot },
       { label: 'Linux', icon: Icons.Linux },
     ],
